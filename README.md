@@ -20,4 +20,5 @@ An script where it logs in your instagram  account and follows people and likes 
 People might follow you back and you might end up gaining alot of followers!
 # Other:
  (pls dont make fun of me this is my first time uploading something to github)
+ 
  Might add following people with their location
