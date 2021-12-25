@@ -1,0 +1,9 @@
+food
+dog
+dogs
+cat
+cats
+anime
+food
+game
+twitch
